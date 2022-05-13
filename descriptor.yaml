@@ -1,0 +1,6 @@
+code: strapi-single-content-widget
+description: Single content mf with configuration
+components:
+  widgets:
+    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
+
